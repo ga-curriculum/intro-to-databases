@@ -2,21 +2,18 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This Intro to Databases module is designed to offer a high level introduction into what databases are, how they are used in the context of an application, and important aspects of two popular database implementations.
 
 ## Prerequisites
-
-- tktk
-- tktk
-- tktk
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Concepts](./concepts/README.md) | -- | -- | Introduction to what databases are and why we use them. |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Non-Relational Databases](./non-relational-databases/README.md) | -- | -- | An overview of what non-relational databases are. |
+| [Relational Databases](./relational-databases/README.md) | -- | -- | An overview of what relational databases are. |
+| [Key Differences Between Non-Relational and Relational Databases](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
 
 ## References
