@@ -13,7 +13,7 @@ This Intro to Databases module is designed to offer a high level introduction in
 | [Concepts](./concepts/README.md) | -- | -- | Introduction to what databases are and why we use them. |
 | [Non-Relational Databases](./non-relational-databases/README.md) | -- | -- | An overview of what non-relational databases are. |
 | [Relational Databases](./relational-databases/README.md) | -- | -- | An overview of what relational databases are. |
-| [Key Differences Between Non-Relational and Relational Databases](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Key Differences Between Non-Relational and Relational Databases](./key-differences/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
 
 ## References
