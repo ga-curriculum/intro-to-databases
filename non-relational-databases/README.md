@@ -4,12 +4,11 @@
 
 ## Introduction to Non-Relational Databases
 
-A non-relational database, often referred to as a NoSQL (Not Only SQL) database, is a type of database management system that does not follow the traditional relational database model. Unlike relational databases, which use a structured schema with tables, rows, and columns, non-relational databases use a variety of data models for storing and retrieving data. The choice of data model depends on the specific requirements of the application.
+A non-relational database, often referred to as a NoSQL (Not Only SQL) database, is a type of database management system that does not follow the traditional relational database model. Unlike relational databases, which use a structured schema with tables, rows, and columns, non-relational databases use a variety of data models for storing and retrieving data.
 
 ## Document-Oriented Data Model
 
 A document-oriented database is a type of NoSQL database management system that is designed to store, retrieve, and manage semi-structured or unstructured data in the form of documents.  The document-oriented data model that we will take a look at is MongoDB.  Specifically, we will look at how data is stored in documents and documents are stored in collections.
-
 
 ## Collections and Documents
 

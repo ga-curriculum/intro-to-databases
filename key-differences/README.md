@@ -4,13 +4,15 @@
 
 ## Schema vs. Schema-less
 
-Schema:
+### Schema:
 
 A schema is a blueprint or a formal definition that describes the organization of data in a database. It defines the tables, the fields (columns) within each table, the data types of the fields, and the relationships between tables.
 
-Schema-less:
+### Schema-less:
 
 In a schema-less database, there is no predefined schema that dictates the structure of the data. Instead, the database allows for flexible and dynamic storage of data without requiring a fixed, rigid structure.
+
+![tktk comparison of Mongo to SQL](./assets/tktkcomparison-image.png)
 
 
 ## Use Cases and When to Choose Each
