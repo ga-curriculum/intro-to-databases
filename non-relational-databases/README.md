@@ -1,30 +1,31 @@
 # ![Non-Relational Databases - MongoDB](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to describe what a non-relational database is.
+**Learning Objective:** By the end of this lesson, students will understand the concept of non-relational databases, specifically focusing on MongoDB as an example.
 
-## Introduction to Non-Relational Databases
+### What is a non-relational database?
 
-A non-relational database, often referred to as a NoSQL (Not Only SQL) database, is a type of database management system that does not follow the traditional relational database model. Unlike relational databases, which use a structured schema with tables, rows, and columns, non-relational databases use a variety of data models for storing and retrieving data.
+Non-relational databases, commonly referred to as NoSQL databases, break away from the traditional relational database model. Instead of adhering to a fixed, table-based structure, non-relational databases are designed to handle a variety of data models. These models are more flexible and can manage semi-structured or unstructured data efficiently.
 
-## Document-Oriented Data Model
+### Document-oriented databases: MongoDB
 
-A document-oriented database is a type of NoSQL database management system that is designed to store, retrieve, and manage semi-structured or unstructured data in the form of documents.  The document-oriented data model that we will take a look at is MongoDB.  Specifically, we will look at how data is stored in documents and documents are stored in collections.
+Among the types of NoSQL databases, document-oriented systems stand out for their versatility in managing data. [MongoDB](https://www.mongodb.com/), a leading document-oriented database, exemplifies this approach. It is engineered to store, manage, and retrieve data in the form of documents, which can be thought of as complex records with varying structures.
 
-## Collections and Documents
+### Understanding collections and documents in MongoDB
 
-In MongoDB, we save and retrieve documents to and from a collection.
+tktk hunter - a super basic visual showing the document > collection hierarchy 
 
-Let's take a look at what a MongoDB _document_ might look like:
+**Documents**: In MongoDB, data is stored as *documents*. These documents are similar to JSON objects and can contain a variety of key-value pairs. Documents are the basic unit of data in MongoDB, analogous to a row in a relational database. Instead of tables, documents are stored in what we call `collections`.
 
-```javascript
-{
-  _id: ObjectId("5099803df3f4948bd2f98391"),
-  name: { first: "Alan", last: "Turing" },
-  birth: ISODate("1912-06-23T00:00:00Z"),
-  death: ISODate("1954-06-07T00:00:00Z"),
-  contribs: [ "Turing machine", "Turing test", "Turingery" ],
-  views: 1250000
-}
+  Example of a MongoDB Document:
+
+  ```javascript
+  {
+    _id: ObjectId("5099803df3f4948bd2f98391"),
+    name: { first: "Alan", last: "Turing" },
+    birth: ISODate("1912-06-23T00:00:00Z"),
+    death: ISODate("1954-06-07T00:00:00Z"),
+    contribs: [ "Turing machine", "Turing test", "Turingery" ],
+    views: 1250000
+  }
 ```
-
-A _collection_ is a group of related documents within a MongoDB database. Collections serve as a container for organizing and storing documents. A document is a single record within a collection.
+> A *collection* is a group of related documents within a MongoDB database. Collections serve as a container for organizing and storing documents. A document is a single record within a collection.
