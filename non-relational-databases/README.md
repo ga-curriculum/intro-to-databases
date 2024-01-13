@@ -14,7 +14,7 @@ Among the types of NoSQL databases, document-oriented systems stand out for thei
 
 tktk hunter - a super basic visual showing the document > collection hierarchy 
 
-**Documents**: In MongoDB, data is stored as *documents*. These documents are similar to JSON objects and can contain a variety of key-value pairs. Documents are the basic unit of data in MongoDB, analogous to a row in a relational database. Instead of tables, documents are stored in what we call `collections`.
+**Documents**: In MongoDB, data is stored as *documents*. These documents are similar to JSON objects and can contain a variety of key-value pairs. Documents are the basic unit of data in MongoDB, analogous to a row in a relational database. Instead of tables, documents are stored in what we call *collections*.
 
   Example of a MongoDB Document:
 
