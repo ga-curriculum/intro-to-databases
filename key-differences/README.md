@@ -2,9 +2,9 @@
 
 **Learning Objective:** This lesson will clarify the fundamental differences between relational and non-relational databases, helping students decide which to use based on specific application requirements.
 
-## Exploring the Differences and Use Cases
+## Exploring the differences and use cases
 
-### Schema vs. Schema-less Databases
+### Schema vs. schema-less databases
 
 The core distinction between relational and non-relational databases lies in their data structure approach:
 
@@ -22,7 +22,7 @@ tktk Hunter - maybe reuse the table graphic from before, or something that repre
   
 tktk Hunter - maybe reuse the document graphic from before, or something that represents no schema or looks like an object
 
-### Selecting the Right Database for Your Application
+### Selecting the right database for your application
 
 The choice between a relational or non-relational database largely depends on an application's specific needs:
 
