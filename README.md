@@ -2,7 +2,7 @@
 
 ## About
 
-This Intro to Databases module is designed to offer a high level introduction into what databases are, how they are used in the context of an application, and important aspects of two popular database implementations.
+This module is tailored for beginners and intermediate learners, providing an overview of key database types. It Examines the flexible data handling of non-relational databases like MongoDB, contrasting with the structured approach of SQL-based relational databases. The module concludes with a comparison of these database types, equipping students with essential knowledge to choose the right database for various applications.
 
 ## Prerequisites
 
@@ -10,10 +10,10 @@ This Intro to Databases module is designed to offer a high level introduction in
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Concepts](./concepts/README.md) | -- | -- | Introduction to what databases are and why we use them. |
-| [Non-Relational Databases](./non-relational-databases/README.md) | -- | -- | An overview of what non-relational databases are. |
-| [Relational Databases](./relational-databases/README.md) | -- | -- | An overview of what relational databases are. |
-| [Key Differences Between Non-Relational and Relational Databases](./key-differences/README.md) | -- | -- | tktk skills covered |
+| [Concepts](./concepts/README.md) | -- | -- | Introduction to databases and persistent data |
+| [Relational Databases](./relational-databases/README.md) | -- | -- | Examine the structured approach of relational databases with `SQL` |
+| [Non-Relational Databases](./non-relational-databases/README.md) | -- | -- | Examine the flexibility of schemaless non-relational databases like `MongoDB`  |
+| [Key Differences Between Relational and Non-Relational Databases](./key-differences/README.md) | -- | -- | Explain the fundamental differences between relational and non-relational databases in relation to schema |
 | **Total content**                                        | -- | -- |                     |
 
 ## References
