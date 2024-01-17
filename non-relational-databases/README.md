@@ -1,4 +1,4 @@
-# ![Non-Relational Databases - MongoDB](./assets/hero.png)
+# ![Non-Relational Databases - MongoDB](./assets/tktk-hero.png)
 
 **Learning Objective:** By the end of this lesson, students will understand the concept of non-relational databases, specifically focusing on MongoDB as an example.
 

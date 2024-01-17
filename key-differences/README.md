@@ -1,4 +1,4 @@
-# ![Intro to Databases - Key Differences Between Relational and Non-Relational Databases](./assets/hero.png)
+# ![Intro to Databases - Key Differences Between Relational and Non-Relational Databases](./assets/tktk-hero.png)
 
 **Learning Objective:** This lesson will clarify the fundamental differences between relational and non-relational databases, helping students decide which to use based on specific application requirements.
 

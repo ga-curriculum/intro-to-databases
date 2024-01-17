@@ -1,4 +1,4 @@
-# ![Relational Databases](./assets/hero.png)
+# ![Relational Databases](./assets/tktk-hero.png)
 
 **Learning Objective:** By the end of this lesson, students will understand the basics of relational databases, the role of SQL, and the key components that constitute the structure of a relational database.
 
