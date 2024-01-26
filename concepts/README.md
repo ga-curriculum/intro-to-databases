@@ -1,4 +1,4 @@
-# ![Intro to Databases - Concepts](./assets/tktkhero.png)
+# ![Intro to Databases - Concepts](./assets/hero.png)
 
 **Learning Objective:** By the end of this lesson, students will have a clear understanding of what a database is, its significance in application development, and how it integrates with applications to manage data effectively.
 
@@ -10,7 +10,7 @@
 
 Simply put, **a database provides persistent storage for data**.
 
-tktk hunter- can we get a generic image of a db?
+![A box containing documents](./assets/persistent-storage.png)
 
 ### The importance of databases
 

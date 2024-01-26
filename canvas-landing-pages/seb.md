@@ -1,4 +1,4 @@
-# ![Intro to Databases](../assets/tktk-hero.png)
+# ![Intro to Databases](../assets/hero.png)
 
 ## About
 
