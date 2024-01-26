@@ -1,4 +1,4 @@
-# ![Relational Databases](./assets/tktk-hero.png)
+# ![Intro to Databases - Relational Databases](./assets/hero.png)
 
 **Learning Objective:** By the end of this lesson, students will understand the basics of relational databases, the role of SQL, and the key components that constitute the structure of a relational database.
 
@@ -30,6 +30,6 @@ These are the fundamental structural components of a relational database:
 
 Example of a Table Structure:
 
-tktk Hunter - we need a basic table 
+![An example of a relational database table](./assets/table-diagram.png)
 
 Understanding the relationship between tables, rows, and columns is crucial for working with relational databases. These elements work together to store data in an organized and accessible manner, making relational databases a staple in data management across various industries.

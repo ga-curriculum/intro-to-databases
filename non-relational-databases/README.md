@@ -1,4 +1,4 @@
-# ![Non-Relational Databases - MongoDB](./assets/tktk-hero.png)
+# ![Intro to Databases - Non-Relational Databases](./assets/hero.png)
 
 **Learning Objective:** By the end of this lesson, students will understand the concept of non-relational databases, specifically focusing on MongoDB as an example.
 
@@ -12,7 +12,7 @@ Among the types of NoSQL databases, document-oriented systems stand out for thei
 
 ### Understanding collections and documents in MongoDB
 
-tktk hunter - a super basic visual showing the document > collection hierarchy 
+![The hierarchy of collections and documents](./assets/document-collection-hierarchy.png)
 
 **Documents**: In MongoDB, data is stored as *documents*. These documents are similar to JSON objects and can contain a variety of key-value pairs. Documents are the basic unit of data in MongoDB, analogous to a row in a relational database. Instead of tables, documents are stored in what we call *collections*.
 
@@ -28,4 +28,4 @@ tktk hunter - a super basic visual showing the document > collection hierarchy
     views: 1250000
   }
 ```
-> A *collection* is a group of related documents within a MongoDB database. Collections serve as a container for organizing and storing documents. A document is a single record within a collection.
+> 📚 A *collection* is a group of related documents within a MongoDB database. Collections serve as a container for organizing and storing documents. A document is a single record within a collection.
