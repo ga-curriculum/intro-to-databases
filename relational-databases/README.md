@@ -26,9 +26,7 @@ These are the fundamental structural components of a relational database:
 
 - **Rows**: Each row in a table represents a unique instance or record of the entity being stored. For example, in a table of employees, each row would represent a single employee.
 
-- **Columns**: Columns define the specific attributes or fields of the data entity. Each column in a table specifies the type of data it holds, like a name, date, number, etc.
-
-Example of a Table Structure:
+- **Columns**: Columns define the specific attributes or fields of the data entity. Each column in a table specifies the type of data it holds, like a `name`, `role`, and `start_date`.
 
 ![An example of a relational database table](./assets/table-diagram.png)
 
