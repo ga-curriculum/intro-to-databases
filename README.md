@@ -6,6 +6,8 @@ This module is tailored for beginners and intermediate learners, providing an ov
 
 ## Prerequisites
 
+None
+
 ## Content
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
