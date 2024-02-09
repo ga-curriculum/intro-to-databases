@@ -2,22 +2,21 @@
 
 **Learning Objective:** By the end of this lesson, students will have a clear understanding of what a database is, its significance in application development, and how it integrates with applications to manage data effectively.
 
-### What is a database?
+## What is a database?
 
-**Per Wikipedia:**
+An application uses a database to interact with, organize, and save - or persist - data. There are many types of database systems, but they share common traits:
 
-*"In computing, a [database](https://en.wikipedia.org/wiki/Database#:~:text=Outside%20the%20world%20of%20professional,of%20a%20database%20management%20system.) is an organized collection of data or a type of data store based on the use of a database management system (DBMS), the software that interacts with end users, applications, and the database itself to capture and analyze the data."*
-
-Simply put, **a database provides persistent storage for data**.
+- **Data storage**: This is the primary function of a database - to store data.
+- **Data retrieval**: Databases provide tools to query stored data.
+- **Data manipulation**: Data held in a database can be updated or deleted.
+- **Data integrity**: Most database systems have mechanisms to ensure the accuracy of their data.
 
 ![A box containing documents](./assets/persistent-storage.png)
 
 ### The importance of databases
 
-Databases play a crucial role in almost all applications by providing a persistent storage mechanism for data. Unlike temporary data storage in memory structures like arrays and objects, databases ensure that data is not lost when an application is closed or refreshed. This persistence is key to maintaining data integrity and consistency across application uses.
+Databases play a crucial role in almost all applications by providing a persistent storage mechanism for data.  Unlike temporary storage in data structures like arrays and objects, databases ensure that data is not lost when an application is closed or refreshed. This persistence is key to maintaining data integrity and consistency across application uses.
 
-### Applications and databases
+Beyond this, databases enable applications to create, read, update, and delete data (commonly abbreviated as CRUD). CRUD is foundational to how applications interact with databases and represents many apps' core functionality. For example, a social media application likely allows users to create posts, read posts, edit (update) their posts, and delete their posts.
 
-In the realm of software development, databases are indispensable. They offer a secure, reliable, and scalable way to store, retrieve, and manipulate data. Whether it’s user information, transactional data, or application settings, databases hold the data that applications need to function effectively. They enable applications to provide dynamic, personalized experiences to users by allowing data to persist and evolve over time.
-
-As you progress in your development journey, the knowledge of databases will be fundamental in designing and building robust, data-driven applications.
+In short, databases enable applications to provide dynamic, personalized experiences to users by allowing data to persist and evolve. Understanding how databases function will be fundamental in designing and building robust, data-driven applications as you progress in your development journey.
