@@ -15,7 +15,7 @@ An application uses a database to interact with, organize, and save - or persist
 
 ### The importance of databases
 
-Databases play a crucial role in almost all applications by providing a persistent storage mechanism for data.  Unlike temporary data storage in memory structures like arrays and objects, databases ensure that data is not lost when an application is closed or refreshed. This persistence is key to maintaining data integrity and consistency across application uses.
+Databases play a crucial role in almost all applications by providing a persistent storage mechanism for data.  Unlike temporary storage in data structures like arrays and objects, databases ensure that data is not lost when an application is closed or refreshed. This persistence is key to maintaining data integrity and consistency across application uses.
 
 Beyond this, databases enable applications to create, read, update, and delete data (commonly abbreviated as CRUD). CRUD is foundational to how applications interact with databases and represents many apps' core functionality. For example, a social media application likely allows users to create posts, read posts, edit (update) their posts, and delete their posts.
 
