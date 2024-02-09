@@ -9,6 +9,7 @@ This module is tailored for beginners and intermediate learners, providing an ov
 None
 
 ## Content
+
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Concepts](./concepts/README.md) | -- | -- | Introduction to databases and persistent data |
