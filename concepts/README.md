@@ -19,4 +19,4 @@ Databases play a crucial role in almost all applications by providing a persiste
 
 Beyond this, databases enable applications to create, read, update, and delete data (commonly abbreviated as CRUD). CRUD is foundational to how applications interact with databases and represents many apps' core functionality. For example, a social media application likely allows users to create posts, read posts, edit (update) their posts, and delete their posts.
 
-In short, databases enable applications to provide dynamic, personalized experiences to users by allowing data to persist and evolve. Understanding how databases function will be fundamental in designing and building robust, data-driven applications as you progress in your development journey.
+In short, databases let applications to provide dynamic, personalized experiences to users by allowing data to persist and evolve. Understanding how databases function is fundamental in designing and building robust, data-driven applications as you progress in your development journey.
