@@ -2,7 +2,9 @@
 
 ## About
 
-This module is tailored for beginners and intermediate learners, providing an overview of key database types. It Examines the flexible data handling of non-relational databases like MongoDB, contrasting with the structured approach of SQL-based relational databases. The module concludes with a comparison of these database types, equipping students with essential knowledge to choose the right database for various applications.
+This module is tailored for beginners and intermediate learners, providing an overview of key database types. It examines the flexible data handling of non-relational databases like MongoDB, contrasting with the structured approach of SQL-based relational databases.
+
+The module concludes with a comparison of these database types, equipping students with essential knowledge to choose the right database for various applications.
 
 ## Content
 

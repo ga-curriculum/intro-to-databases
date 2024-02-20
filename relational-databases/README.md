@@ -1,32 +1,32 @@
 # ![Intro to Databases - Relational Databases](./assets/hero.png)
 
-**Learning Objective:** By the end of this lesson, students will understand the basics of relational databases, the role of SQL, and the key components that constitute the structure of a relational database.
+**Learning Objective:** By the end of this lesson, students will understand the basics of relational databases, the role of SQL, and the structure of data in a relational database.
 
 ## Introduction to relational databases
 
-A relational database is a type of database management system (DBMS) that organizes data into tables, which consist of rows and columns. This structure is based on the principles of the relational model, introduced by E.F. Codd in 1970. In a relational database, data is stored in a structured way to establish relationships between different entities.
+A relational database is a type of database management system (DBMS) that organizes data into tables, consisting of rows and columns. Data is stored in a structured way to help establish relationships between different entities.
 
 ### SQL: The language of databases
 
-**[SQL (Structured Query Language)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)**, typically pronounced "sequel" or "Ess-Que-Ell" is the standard programming language for interacting with relational databases. Its syntax is designed to be intuitive, bearing a resemblance to the English language, which makes SQL relatively straightforward to learn and use.
+**[SQL (Structured Query Language)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)**, typically pronounced "sequel" or "Ess-Que-Ell", is the standard programming language for interacting with relational databases. Its syntax is designed to be intuitive, resembling the English language, which makes SQL relatively straightforward to learn and use.
 
 **SQL's functionality includes the ability to:**
 
-- Create, Read, Update, and Delete (CRUD) data within a database.
+- Create, read, update, and delete (CRUD) data within a database.
 - Define and manipulate the structure of database tables.
 - Manage and control access to the database.
 
-It's important to note that while SQL is largely standardized, there can be slight variations in its implementation across different Relational Database Management Systems (RDBMS). Common RDBMSs like `SQLite` and `PostgreSQL` might differ in terms of the specific SQL commands they support.
+It's important to note that while SQL is standardized, its implementation can vary slightly across different Relational Database Management Systems (RDBMS). Common RDBMSs like ***SQLite*** and ***PostgreSQL*** might differ in terms of the specific SQL commands they support.
 
-### Tables, Rows, and Columns
+### Tables, rows, and columns
 
 These are the fundamental structural components of a relational database:
 
-- **Tables**: A table in a relational database is akin to a spreadsheet. It serves as the primary container for data and is organized into rows and columns.
+- **Tables**: A table in a relational database is similar to a spreadsheet. It serves as the primary container for data and is organized into rows and columns.
 
-- **Rows**: Each row in a table represents a unique instance or record of the entity being stored. For example, in a table of employees, each row would represent a single employee.
+- **Rows**: Each row in a table represents a unique instance or record of the entity being stored. For example, each row would represent a single employee in a table of employees.
 
-- **Columns**: Columns define the specific attributes or fields of the data entity. Each column in a table specifies the type of data it holds, like a `name`, `role`, and `start_date`.
+- **Columns**: Columns define the specific attributes or fields of the data entity. For example, in a table of employees you could have columns for employee attributes such as `name`, `role`, and `start_date`. Every entry in the same column in a table must conform to the same data type. For example, every entry in the `name` column must be a string, and every entry in the `start_date` column must be a date.
 
 ![An example of a relational database table](./assets/table-diagram.png)
 
