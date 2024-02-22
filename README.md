@@ -14,11 +14,11 @@ None
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Concepts](./concepts/README.md) | -- | -- | Introduction to databases and persistent data |
-| [Relational Databases](./relational-databases/README.md) | -- | -- | Examine the structured approach of relational databases with SQL |
-| [Non-Relational Databases](./non-relational-databases/README.md) | -- | -- | Examine the flexibility of schemaless non-relational databases like MongoDB  |
-| [Comparing Relational and Non-Relational Databases](./comparing-relational-and-non-relational-databases/README.md) | -- | -- | Explain the fundamental differences between relational and non-relational databases in relation to schema |
-| **Total content**                                        | -- | -- |                     |
+| [Concepts](./concepts/README.md)                                                                                   | -- | -- | Introduction to databases and persistent data.                                       |
+| [Relational Databases](./relational-databases/README.md)                                                           | -- | -- | Examine the structured approach of relational databases with SQL.                    |
+| [Non-Relational Databases](./non-relational-databases/README.md)                                                   | -- | -- | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
+| [Comparing Relational and Non-Relational Databases](./comparing-relational-and-non-relational-databases/README.md) | -- | -- | Explain the fundamental differences between relational and non-relational databases. |
+| **Total content**                                                                                                  | -- | -- |                                                                                      |
 
 ## References
 

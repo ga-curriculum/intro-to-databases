@@ -10,10 +10,10 @@ The module concludes with a comparison of these database types, equipping studen
 
 | Lesson | Skills |
 | ------ | ------ |
-| [Concepts](../concepts/README.md) | Introduction to databases and persistent data |
-| [Relational Databases](../relational-databases/README.md) | Examine the structured approach of relational databases with `SQL` |
-| [Non-Relational Databases](../non-relational-databases/README.md) | Examine the flexibility of schemaless non-relational databases like `MongoDB`  |
-| [Key Differences Between Relational and Non-Relational Databases](../key-differences/README.md) | Explain the fundamental differences between relational and non-relational databases in relation to schema |
+| [Concepts](../concepts/README.md)                                                                                   | Introduction to databases and persistent data.                                       |
+| [Relational Databases](../relational-databases/README.md)                                                           | Examine the structured approach of relational databases with SQL.                    |
+| [Non-Relational Databases](../non-relational-databases/README.md)                                                   | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
+| [Comparing Relational and Non-Relational Databases](../comparing-relational-and-non-relational-databases/README.md) | Explain the fundamental differences between relational and non-relational databases. |
 
 ## References
 
