@@ -24,7 +24,7 @@ Here's an example of a MongoDB document:
 
 ```json
 {
-  _id: ObjectId("5099803df3f4948bd2f98391"),
+  _id: ObjectId("65cfbe85aa84a57a40363ad5"),
   name: "Alex",
   role: "Developer",
   startDate: ISODate("2018-03-19T00:00:00Z"),

@@ -4,7 +4,7 @@
 
 ## Introduction to relational databases
 
-A relational database is a type of database management system (DBMS) that organizes data into tables, consisting of rows and columns. Data is stored in a structured way to help establish relationships between different entities.
+A relational database is a type of database management system (DBMS) that organizes data into tables, consisting of rows and columns. Data is stored in a structured way to help organize data and establish relationships between different entities.
 
 ### SQL: The language of databases
 
@@ -23,9 +23,7 @@ It's important to note that while SQL is standardized, its implementation can va
 These are the fundamental structural components of a relational database:
 
 - **Tables**: A table in a relational database is similar to a spreadsheet. It serves as the primary container for data and is organized into rows and columns.
-
 - **Rows**: Each row in a table represents a unique instance or record of the entity being stored. For example, each row would represent a single employee in a table of employees.
-
 - **Columns**: Columns define the specific attributes or fields of the data entity. For example, in a table of employees you could have columns for employee attributes such as `name`, `role`, and `start_date`. Every entry in the same column in a table must conform to the same data type. For example, every entry in the `name` column must be a string, and every entry in the `start_date` column must be a date.
 
 ![An example of a relational database table](./assets/table-diagram.png)
