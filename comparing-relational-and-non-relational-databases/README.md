@@ -16,7 +16,7 @@ The core distinction between relational and non-relational databases lies in the
 
 - A relational database uses a predefined schema to organize data into tables.
 - Each table consists of rows and columns, where columns define the data type and structure.
-- This rigid schema ensures consistent data entry and supports complex queries and relationships between different tables.
+- This rigid schema ensures consistent data entry and supports complex queries for data.
 
 **Schema-less in non-relational databases**:
 
