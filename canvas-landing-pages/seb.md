@@ -8,12 +8,13 @@ The module concludes with a comparison of these database types, equipping studen
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
-| [Concepts](../concepts/README.md)                                                                                   | Introduction to databases and persistent data.                                       |
-| [Relational Databases](../relational-databases/README.md)                                                           | Examine the structured approach of relational databases with SQL.                    |
-| [Non-Relational Databases](../non-relational-databases/README.md)                                                   | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
-| [Comparing Relational and Non-Relational Databases](../comparing-relational-and-non-relational-databases/README.md) | Explain the fundamental differences between relational and non-relational databases. |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Concepts](./concepts/README.md)                                                                                   | 2 min  | [link](https://generalassembly.wistia.com/medias/z6rfgrw8a8) | Introduction to databases and persistent data.                                       |
+| [Relational Databases](./relational-databases/README.md)                                                           | 2 min  | [link](https://generalassembly.wistia.com/medias/b6br99ey29) | Examine the structured approach of relational databases with SQL.                    |
+| [Non-Relational Databases](./non-relational-databases/README.md)                                                   | 3 min  | [link](https://generalassembly.wistia.com/medias/qw0bifr33s) | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
+| [Comparing Relational and Non-Relational Databases](./comparing-relational-and-non-relational-databases/README.md) | 3 min  | [link](https://generalassembly.wistia.com/medias/qbrdtu2ca3) | Explain the fundamental differences between relational and non-relational databases. |
+| **Total content**                                                                                                  | 10 min | --                                                           |                                                                                      |
 
 ## References
 
