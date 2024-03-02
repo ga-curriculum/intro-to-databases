@@ -8,7 +8,7 @@ A relational database is a type of database management system (DBMS) that organi
 
 ### SQL: The language of databases
 
-**[SQL (Structured Query Language)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)**, typically pronounced "sequel" or "Ess-Que-Ell", is the standard programming language for interacting with relational databases. Its syntax is designed to be intuitive, resembling the English language, which makes SQL relatively straightforward to learn and use.
+[SQL (Structured Query Language)](https://developer.mozilla.org/en-US/docs/Glossary/SQL), typically pronounced "sequel" or "Ess-Que-Ell", is the standard programming language for interacting with relational databases. Its syntax is designed to be intuitive, resembling the English language, which makes SQL relatively straightforward to learn and use.
 
 **SQL's functionality includes the ability to:**
 
