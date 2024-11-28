@@ -1,4 +1,7 @@
-# ![Intro to Databases](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to Databases</span>
+</h1>
 
 ## About
 
@@ -8,13 +11,13 @@ The module concludes with a comparison of these database types, equipping studen
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Concepts](../concepts/README.md)                                                                                   | 2 min  | [link](https://generalassembly.wistia.com/medias/z6rfgrw8a8) | Understand how databases help persistent data.                                       |
-| [Relational Databases](../relational-databases/README.md)                                                           | 2 min  | [link](https://generalassembly.wistia.com/medias/b6br99ey29) | Examine the structured approach of relational databases with SQL.                    |
-| [Non-Relational Databases](../non-relational-databases/README.md)                                                   | 3 min  | [link](https://generalassembly.wistia.com/medias/qw0bifr33s) | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
-| [Comparing Relational and Non-Relational Databases](../comparing-relational-and-non-relational-databases/README.md) | 3 min  | [link](https://generalassembly.wistia.com/medias/qbrdtu2ca3) | Explain the fundamental differences between relational and non-relational databases. |
-| **Total content**                                                                                                   | 10 min | --                                                           |                                                                                      |
+| Lesson                                                                                                              | Video Time |                            Video                             | Skills                                                                               |
+| ------------------------------------------------------------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | ------------------------------------------------------------------------------------ |
+| [Concepts](../concepts/README.md)                                                                                   |   2 min    | [link](https://generalassembly.wistia.com/medias/z6rfgrw8a8) | Understand how databases help persistent data.                                       |
+| [Relational Databases](../relational-databases/README.md)                                                           |   2 min    | [link](https://generalassembly.wistia.com/medias/b6br99ey29) | Examine the structured approach of relational databases with SQL.                    |
+| [Non-Relational Databases](../non-relational-databases/README.md)                                                   |   3 min    | [link](https://generalassembly.wistia.com/medias/qw0bifr33s) | Examine the flexibility of schemaless non-relational databases like MongoDB.         |
+| [Comparing Relational and Non-Relational Databases](../comparing-relational-and-non-relational-databases/README.md) |   3 min    | [link](https://generalassembly.wistia.com/medias/qbrdtu2ca3) | Explain the fundamental differences between relational and non-relational databases. |
+| **Total content**                                                                                                   |   10 min   |                              --                              |                                                                                      |
 
 ## References
 

@@ -1,4 +1,7 @@
-# ![Intro to Databases - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Databases</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 

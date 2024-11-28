@@ -1,4 +1,7 @@
-# ![Intro to Databases - Relational Databases](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Databases</span>
+  <span class="subhead">Relational Databases</span>
+</h1>
 
 **Learning Objective:** By the end of this lesson, students will understand the basics of relational databases, the role of SQL, and the structure of data in a relational database.
 

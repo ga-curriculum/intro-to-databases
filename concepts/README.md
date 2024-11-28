@@ -1,4 +1,7 @@
-# ![Intro to Databases - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Databases</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning Objective:** By the end of this lesson, students will have a clear understanding of what a database is, its significance in application development, and how it integrates with applications to manage data effectively.
 
