@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Intro to Databases</span>
-  <span class="subhead">Comparing Relational and Non Relational Databases</span>
+  <span class="subhead">Comparing Relational and Non-Relational Databases</span>
 </h1>
 
 **Learning Objective:** This lesson will clarify the fundamental differences between relational and non-relational databases, helping students decide which to use based on specific application requirements.

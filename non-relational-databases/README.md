@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Intro to Databases</span>
-  <span class="subhead">Non Relational Databases</span>
+  <span class="subhead">Non-Relational Databases</span>
 </h1>
 
 **Learning Objective:** By the end of this lesson, students will understand the concept of non-relational databases, specifically focusing on MongoDB as an example.

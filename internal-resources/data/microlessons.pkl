@@ -17,14 +17,14 @@ relationalDatabases = new Template.Microlesson {
 }
 
 nonRelationalDatabases = new Template.Microlesson {
-  friendlyName = "Non Relational Databases"
+  friendlyName = "Non-Relational Databases"
   dirName = "non-relational-databases"
   type = "Content"
   videoUrl = ""
 }
 
 comparingRelationalAndNonRelationalDatabases = new Template.Microlesson {
-  friendlyName = "Comparing Relational and Non Relational Databases"
+  friendlyName = "Comparing Relational and Non-Relational Databases"
   dirName = "comparing-relational-and-non-relational-databases"
   type = "Content"
   videoUrl = ""
